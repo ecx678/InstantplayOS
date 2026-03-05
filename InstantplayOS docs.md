@@ -10,3 +10,6 @@
 ## About App's
 - **The Roblox app has 1 game and its called Steal a brainrot**
 - **Its also made from **[Penguinmod](penguinmod.com)****
+
+# Project
+- **This project's project.json can be found **[here](assets/project.json)****
