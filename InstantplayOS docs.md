@@ -2,7 +2,7 @@
 
 
 ## About InstantplayOS
-- **Its built from **[Penguinmod](penguinmod.com)****
+- **Its built from **[Penguinmod](https://penguinmod.com/)****
 - **It can be found **[here](ecx678.github.io/InstantplayOS/)****
 
 
