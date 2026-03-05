@@ -12,4 +12,4 @@
 - **Its also made from **[Penguinmod](penguinmod.com)****
 
 # Project
-- **This project's project.json can be found **[here](assets/project.json)****
+- **This project's project.json can be found **[here](assets/project.json)** and images **[here](assets)****
